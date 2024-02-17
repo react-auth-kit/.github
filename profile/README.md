@@ -1,11 +1,11 @@
-<img align="left" src="./logo.png" width="300" alt="Arkadip Bhattacharya's Dev Card"/>
+<img align="left" src="https://raw.githubusercontent.com/react-auth-kit/.github/main/logo.png" width="30%" alt="logo"/>
 
-<img width="650" src="https://raw.githubusercontent.com/react-auth-kit/react-auth-kit/master/docs/img/banner.svg" alt="React Auth Kit Banner" />
+<img width="65%" src="https://raw.githubusercontent.com/react-auth-kit/react-auth-kit/master/docs/img/banner.svg" alt="React Auth Kit Banner" />
 
 ---
 
 <p align="center">
-    <em>🔑 Authentication Library for React Js for Token Based Auth with Json Web Token(JWT) 🔑</em>
+    <em>🔑 Authentication Library for React Js for Token-Based Auth with JSON Web Token(JWT) 🔑</em>
 </p>
 
 <p align="center">
