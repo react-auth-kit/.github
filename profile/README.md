@@ -4,7 +4,8 @@
 
 <p align="center">
     <img height="50px" src="https://raw.githubusercontent.com/react-auth-kit/.github/main/nextdotjs.svg" alt="Next Js">
-    <img height="50px" src="https://raw.githubusercontent.com/react-auth-kit/.github/main/reactrouter.svg" alt="React Query">
+    <img height="50px" src="https://raw.githubusercontent.com/react-auth-kit/.github/main/reactquery.svg" alt="React Query">
+    <img height="50px" src="https://raw.githubusercontent.com/react-auth-kit/.github/main/remix.svg" alt="Remix">
     <img height="50px" src="https://raw.githubusercontent.com/react-auth-kit/.github/main/react.svg" alt="React Js">
     <img height="50px" src="https://raw.githubusercontent.com/react-auth-kit/.github/main/reactrouter.svg" alt="React Router">
 </p>
