@@ -1,20 +1,19 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/react-auth-kit/react-auth-kit/master/docs/img/banner.svg" alt="React Auth Kit Banner"/>
-</p>
+<img align="left" src="./logo.png" width="300" alt="Arkadip Bhattacharya's Dev Card"/>
+
+<img width="650" src="https://raw.githubusercontent.com/react-auth-kit/react-auth-kit/master/docs/img/banner.svg" alt="React Auth Kit Banner" />
+
+---
 
 <p align="center">
     <em>🔑 Authentication Library for React Js for Token Based Auth with Json Web Token(JWT) 🔑</em>
 </p>
 
 <p align="center">
-  
+    
 <a href="https://codecov.io/gh/react-auth-kit/react-auth-kit">
   <img src="https://codecov.io/gh/react-auth-kit/react-auth-kit/branch/master/graph/badge.svg?token=H188T7PXLL"/>
 </a>
-    
-<a href="https://github.com/react-auth-kit/react-auth-kit/workflows/NPM%20Deploy">
-    <img src="https://github.com/react-auth-kit/react-auth-kit/workflows/NPM%20Deploy/badge.svg" alt="NPM Deploy">
-</a>
+
 <a href="https://www.npmjs.com/package/react-auth-kit">
     <img src="https://img.shields.io/npm/v/react-auth-kit.svg?logo=npm" alt="Test Suites">
 </a>
