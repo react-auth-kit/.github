@@ -2,6 +2,13 @@
 
 <img width="65%" src="https://raw.githubusercontent.com/react-auth-kit/react-auth-kit/master/docs/img/banner.svg" alt="React Auth Kit Banner" />
 
+<p align="center">
+    <img height="50px" src="https://raw.githubusercontent.com/react-auth-kit/.github/main/nextdotjs.svg" alt="Next Js">
+    <img height="50px" src="https://raw.githubusercontent.com/react-auth-kit/.github/main/reactrouter.svg" alt="React Query">
+    <img height="50px" src="https://raw.githubusercontent.com/react-auth-kit/.github/main/react.svg" alt="React Js">
+    <img height="50px" src="https://raw.githubusercontent.com/react-auth-kit/.github/main/reactrouter.svg" alt="React Router">
+</p>
+
 ---
 
 <p align="center">
